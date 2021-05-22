@@ -27,9 +27,9 @@
 git clone https://github.com/manthan89-py/Face-Mask-Entrance-System.git
 ```
 
-# Raise Issue & Suggesiton ⭐:
-* Bug fixing, Code error or Anything Raise issue🤚. If it any have.
-* Happy to hear your sugesstions🤝 about this project.
+# Final Note⭐:
+* <h3> Bug fixing, Code error or Anything Raise issue🤚. If it any have.</h3>
+* <h3> Happy to hear your sugesstions🤝 about this project.</h3>
 
 
 * <h3> Feel Free to Give ⭐ to this Repository.</h3>
