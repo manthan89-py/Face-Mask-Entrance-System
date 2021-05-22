@@ -32,9 +32,12 @@ git clone https://github.com/manthan89-py/Face-Mask-Entrance-System.git
 * Happy to hear your sugesstions🤝 about this project.
 
 
-### Feel Free to Give ⭐ to this Repository.
+## Feel Free to Give ⭐ to this Repository.
+<br>
 
 ## Thank you very much for visiting ❤️.
+<br>
+
 ## Stay Safe✌️ and Stay Healthy✌️.
 
 
